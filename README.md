@@ -14,3 +14,5 @@ Deverá ser anexado no portal um arquivo texto (exemplo projeto_repo.txt) com o 
 Utilizar o Jupyter Notebook de template, no diretório "projeto" e completar conforme pedido.
 
 Dúvidas? Veja se há alguma já respondida ou submeta a sua em https://github.com/michelpf/fiap-ml-visao-computacional-capstone/issues/ ou https://github.com/michelpf/fiap-ml-visao-computacional-capstone-alternative/issues
+
+Professor Michel Fernandes
