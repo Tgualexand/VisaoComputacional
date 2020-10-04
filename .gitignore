@@ -1,0 +1,17 @@
+projeto/pesos/*
+!projeto/pesos/.gitkeep 
+
+projeto/modelos/*
+!projeto/modelos/.gitkeep 
+
+projeto/classificadores/*
+!projeto/classificadores/.gitkeep
+
+raiox/*
+!raiox/.gitkeep
+
+projeto/.ipynb_checkpoints
+
+.DS_Store
+analise-imagens-medicas-colab.ipynb
+.ipynb_checkpoints/analise-imagens-medicas-checkpoint.ipynb
