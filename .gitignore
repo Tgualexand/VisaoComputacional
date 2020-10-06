@@ -18,3 +18,4 @@ analise-imagens-medicas-colab.ipynb
 Variables_ValuesStored.xlsx
 modelo-xception.hdf5
 modelo-xception_pesos.hdf5
+modelos/modelo-resnet50.hdf5
