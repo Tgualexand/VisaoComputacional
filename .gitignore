@@ -16,3 +16,5 @@ projeto/.ipynb_checkpoints
 analise-imagens-medicas-colab.ipynb
 .ipynb_checkpoints/analise-imagens-medicas-checkpoint.ipynb
 Variables_ValuesStored.xlsx
+modelo-xception.hdf5
+modelo-xception_pesos.hdf5
